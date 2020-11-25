@@ -1,3 +1,5 @@
+<img src="http://cdn.charliewave.me/circle-cropped.ico" alt="Charliewave" width="128" align="center">
+
 <h3 align="center">
     Official source code base for our Discord Bot.
 </h3>
